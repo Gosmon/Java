@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Editor
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Editor\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=
+comment1.target=Editor()
+comment2.params=newEmail
+comment2.target=Editor(java.lang.String)
+comment3.params=email
+comment3.target=java.lang.String\ validateEmail(java.lang.String)
+comment4.params=newEmail
+comment4.target=void\ setEmail(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getEmail()
+numComments=6

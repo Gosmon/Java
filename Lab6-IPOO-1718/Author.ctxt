@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Author
+comment0.text=\r\n\ An\ author\ of\ a\ news\ (a\ journalist)\r\n\r\n\ @author\ C\u00E9dric\ Grueau\r\n\ @version\ 15/11/2017\r\n
+comment1.params=
+comment1.target=Author()
+comment2.params=name\ email
+comment2.target=Author(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getEmail()
+comment5.params=name
+comment5.target=void\ setName(java.lang.String)
+comment6.params=email
+comment6.target=java.lang.String\ validateEmail(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
